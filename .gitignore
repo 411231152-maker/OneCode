@@ -1,0 +1,22 @@
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+
+# Backend Laravel
+backend/vendor/
+backend/node_modules/
+backend/.env
+backend/.env.backup
+
+# Laravel cache
+backend/bootstrap/cache/*.php
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
